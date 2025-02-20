@@ -1,6 +1,6 @@
 package org.example.rsa;
 
-import com.mastercard.developer.encryption.EncryptionException;
+import org.example.rsa.EncryptionException;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.OAEPParameterSpec;
